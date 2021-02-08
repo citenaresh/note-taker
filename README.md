@@ -34,7 +34,8 @@ This is a server side application, so you can not instal on client side but you 
 ## Usage
 
 To use the app, you just need to click on the [App Link]("https://note-taker-memo.herokuapp.com/")   ("https://note-taker-memo.herokuapp.com/")
-
+and you will be presented a page with a button called Get Started  as you can see above on the demo pictures. After pressing that button it will take you to a new page where you can see saved notes on the left side with a delete button on each item (so that you can delete a item if you need) and right side with editable text field for Note Title and note text. Top write of the page is a pen sign to start writing the note.
+If note title or text is left blank you can not save the item but when both the fields are filled then a save button will appear on top right near the pen, and you can save the note by pressing this button. To retrieve note you simply click on the title on the left side and it will be displayed on the right.
 
 ## License
 
