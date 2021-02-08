@@ -15,11 +15,14 @@ If note title or text is left blank you can not save the item but when fill both
 <img src="/public/assets/img/notetakermovie.gif">
 
 
+## [Live App](https://note-taker-memo.herokuapp.com/)
+
 ## Table of Contents
 
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [License](#license)
+-   [Live App](#Live App)
 -   [Authors](#Authors)
 -   [Acknowledgments](#Acknowledgments)
 -   [Questions](#questions)
@@ -57,6 +60,10 @@ To use the app, you just need to click on the [App Link]("https://note-taker-mem
     		OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     		SOFTWARE.
 
+
+## Live App
+
+You can view the live app on heroku at (https://note-taker-memo.herokuapp.com/).
 
 
 ## Authors
