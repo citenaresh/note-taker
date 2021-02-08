@@ -15,7 +15,7 @@ If note title or text is left blank you can not save the item but when fill both
 <img src="/public/assets/img/notetakermovie.gif">
 
 
-## [Live App]   (https://note-taker-memo.herokuapp.com/)(https://note-taker-memo.herokuapp.com/)
+## [Live App](https://note-taker-memo.herokuapp.com/)   (https://note-taker-memo.herokuapp.com/)
 
 ## Table of Contents
 
