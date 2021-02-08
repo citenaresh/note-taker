@@ -5,8 +5,8 @@
 ## Description
 
 TThis is a web application which is used for writing and saving notes. Express.js is used as back end utilising a JSON file to save and retrieve data (note)
-When this app is open(run), it presents a page with a button called Get Started and on pressing that button it will take you to a new page where you can see saved page on the left side with a delete button on each item (so that you can delete a item if you need) and write side with editable text field for Note Title and note text. Top write of the page is a pen sign to start writing the note.
-If note title or text is left blank you can not save the item but when fill both the field then a save button will appear on top right near the pen, and you can save the note by pressing this button. To retrieve note you simply click on the title on the left side and it will be displayed on the right.
+When this app is open(run), it presents a page with a button called Get Started and on pressing that button it will take you to a new page where you can see saved notes on the left side with a delete button on each item (so that you can delete a item if you need) and right side with editable text field for Note Title and note text. Top write of the page is a pen sign to start writing the note.
+If note title or text is left blank you can not save the item but when you fill both the fields then a save button will appear on top right near the pen, and you can save the note by pressing this button. To retrieve note you simply click on the title on the left side and it will be displayed on the right.
 
 ## Demo
 
