@@ -33,7 +33,7 @@ This is a server side application, so you can not instal on client side but you 
 
 ## Usage
 
-To use the app, you just need to click on the [App Link]("https://note-taker-memo.herokuapp.com/")("https://note-taker-memo.herokuapp.com/")
+To use the app, you just need to click on the [App Link]("https://note-taker-memo.herokuapp.com/")   ("https://note-taker-memo.herokuapp.com/")
 
 
 ## License
