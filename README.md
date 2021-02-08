@@ -22,7 +22,7 @@ If note title or text is left blank you can not save the item but when fill both
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [License](#license)
--   [Live App](#Live App)
+-   [Live_App](#Live_App)
 -   [Authors](#Authors)
 -   [Acknowledgments](#Acknowledgments)
 -   [Questions](#questions)
@@ -61,9 +61,9 @@ To use the app, you just need to click on the [App Link]("https://note-taker-mem
     		SOFTWARE.
 
 
-## Live App
+## Live_App
 
-You can view the live app on heroku at (https://note-taker-memo.herokuapp.com/).
+* You can view the live app on heroku at (https://note-taker-memo.herokuapp.com/).
 
 
 ## Authors
